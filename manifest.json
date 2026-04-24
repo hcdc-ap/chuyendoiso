@@ -7,12 +7,12 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://github.com/hcdc-ap/images-host/blob/main/images/productivity.png?raw=true",
+      "src": "https://github.com/hcdc-ap/images-host/blob/main/images/Quby_saranghae.gif?raw=true",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://github.com/hcdc-ap/images-host/blob/main/images/productivity.png?raw=true",
+      "src": "https://github.com/hcdc-ap/images-host/blob/main/images/Quby_saranghae.gif?raw=true",
       "sizes": "512x512",
       "type": "image/png"
     }
